@@ -1,0 +1,14 @@
+.table {
+  min-width: 500px;
+}
+@media (min-width: 768px) {
+  .table {
+    min-width: 1050px;
+  }
+}
+.footer {
+  padding: 25px;
+  color: white;
+  background-color: #303f9f;
+  text-align: center;
+}
